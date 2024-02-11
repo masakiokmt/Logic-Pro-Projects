@@ -1,3 +1,3 @@
-If the Sampler instrument is pointing towards some samples not present on your machine, load your own sample into the zones missing the samples. 
+If the Sampler instrument is pointing towards some samples not present on your machine, load your own sample into the file-depriveed zones. 
 
-Sorry about that. I often use the samples stored in custom locations on my machine.
+Sorry about the trouble. I often use the samples stored in custom locations on my machine.
